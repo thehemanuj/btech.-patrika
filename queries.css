@@ -95,7 +95,7 @@
   }
   nav ul{
     width: 100%;
-    background: linear-gradient(to right,rgb(0, 82, 65),rgb(141, 255, 208));
+    background: linear-gradient(to right,#410d68,#18002a);
     position: absolute;
     top: 10rem;
     right: 0;
@@ -157,24 +157,6 @@
 
 }
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width: 45rem) {
   .heading-primary{
     
@@ -353,17 +335,6 @@
     text-shadow: 2px 2px 2px black;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
 
 @media (max-width:90rem)
 {
